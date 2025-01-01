@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LordxK</h1>
-<h3 align="center">a Front/end and Back/end Developer</h3>
+<h3 align="center">a Front/end Developer</h3>
 
-🔭 I’m currently working on (Gunstars) Discord -> https://discord.gg/gunstars-819669126569394277
+🔭 I’m currently working on (PizzaTours) Discord -> https://discord.gg/pizzatours
 
 🌱 I’m currently learning Lua
 
