@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LordxK</h1>
 <h3 align="center">a Front/end Developer</h3>
 
-🔭 I’m currently working on (PizzaTours) Discord -> https://discord.gg/pizzatours
+🔭 my Discord server for my Development Services: https://discord.gg/HvPGkXJ5Gr
 
 🌱 I’m currently learning Lua
 
